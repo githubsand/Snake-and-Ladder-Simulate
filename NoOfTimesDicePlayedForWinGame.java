@@ -1,7 +1,7 @@
 
 /**
  * @author Sandeep_Singh
- * @Functionality Player Reaches at 100.and then player have won the match
+ * @Functionality Report the number of times the dice was played to win the game and also the position after every die role.
  *
  */
 public class NoOfTimesDicePlayedForWinGame 
